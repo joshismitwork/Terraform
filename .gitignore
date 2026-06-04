@@ -1,0 +1,11 @@
+# Ignore local Terraform directories
+.terraform/
+.terraform.lock.hcl
+
+# Ignore state files (which contain plain-text infrastructure secrets)
+*.tfstate
+*.tfstate.*
+
+# Ignore variables containing actual production secrets
+*.tfvars
+*.tfvars.json
