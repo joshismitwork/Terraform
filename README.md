@@ -1,262 +1,198 @@
-Hi, I’m Smit Joshi 👋
+# Hi, I'm Smit Joshi 👋
 
-Cloud | Infrastructure | DevOps | Networking
+## Cloud | Infrastructure | DevOps | Networking
 
 AWS Certified Solutions Architect Associate with hands-on experience supporting enterprise lab infrastructure at Nokia. Passionate about Cloud Computing, Infrastructure as Code, Linux, Networking, and DevOps automation.
 
 My goal is to build secure, scalable, and production-oriented cloud solutions while continuously improving my expertise in AWS, Terraform, Kubernetes, Linux, and Infrastructure Engineering.
 
-⸻
+---
 
-About Me
+## About Me
 
-AWS Certified Solutions Architect – Associate (SAA-C03)
+* AWS Certified Solutions Architect – Associate (SAA-C03)
+* AWS Certified Cloud Practitioner (CLF-C02)
+* CompTIA Network+
+* Terraform Associate 004 (In Progress)
+* R&D Lab Technician at Nokia
+* Computer Systems Technician – Networking Graduate
+* Building Cloud & Infrastructure projects using Terraform and AWS
+* Currently learning Kubernetes, Linux Administration, and DevOps practices
 
-AWS Certified Cloud Practitioner (CLF-C02)
+---
 
-CompTIA Network+
+## Technical Skills
 
-Terraform Associate 004 (In Progress)
+### Cloud Platforms
 
-R&D Lab Technician at Nokia
+* AWS
 
-Computer Systems Technician – Networking Graduate
+### AWS Services
 
-Building Cloud & Infrastructure projects using Terraform and AWS
+* EC2
+* VPC
+* IAM
+* S3
+* CloudFront
+* Route 53
+* CloudWatch
+* RDS
+* EBS
+* EFS
+* Security Groups
+* Auto Scaling
+* Load Balancers
 
-Currently learning Kubernetes, Linux Administration, and DevOps practices
+### Infrastructure as Code
 
-⸻
+* Terraform
 
-Technical Skills
+### Operating Systems
 
-Cloud Platforms
+* Linux (RHEL, CentOS, Oracle Linux)
+* Windows Server
+* Windows 10/11
 
-AWS
+### Networking
 
-AWS Services
+* TCP/IP
+* DNS
+* DHCP
+* VLANs
+* VPNs
+* Routing & Switching
+* OSPF
+* NAT
+* Firewalls
 
-EC2
+### Virtualization
 
-VPC
+* VMware ESXi
+* VMware vSphere
+* VCSA
 
-IAM
+### Tools
 
-S3
+* Git
+* GitHub
+* VS Code
+* PuTTY
+* PowerShell
+* AWS CLI
 
-CloudFront
+---
 
-Route 53
+# Cloud Portfolio Projects
 
-CloudWatch
+## Project 01 – Secure Static Website Hosting with Terraform
 
-RDS
-
-EBS
-
-EFS
-
-Security Groups
-
-Auto Scaling
-
-Load Balancers
-
-Infrastructure as Code
-
-Terraform
-
-Operating Systems
-
-Linux (RHEL, CentOS, Oracle Linux)
-
-Windows Server
-
-Windows 10/11
-
-Networking
-
-TCP/IP
-
-DNS
-
-DHCP
-
-VLANs
-
-VPNs
-
-Routing & Switching
-
-OSPF
-
-NAT
-
-Firewalls
-
-Virtualization
-
-VMware ESXi
-
-VMware vSphere
-
-VCSA
-
-Tools
-
-Git
-
-GitHub
-
-VS Code
-
-PuTTY
-
-PowerShell
-
-AWS CLI
-
-⸻
-
-Cloud Portfolio Projects
-
-Project 01 – Secure Static Website Hosting with Terraform
-
-Overview
+### Overview
 
 This project demonstrates how Infrastructure as Code can be used to deploy a secure and scalable static website architecture on AWS.
 
-Technologies Used
+### Technologies Used
 
-Terraform
+* Terraform
+* AWS S3
+* Amazon CloudFront
+* IAM
+* GitHub
 
-AWS S3
+### Key Features
 
-Amazon CloudFront
+* Infrastructure fully deployed using Terraform
+* Amazon S3 used for secure website content storage
+* CloudFront configured for global content delivery
+* Repeatable and version-controlled deployment process
+* Infrastructure managed through reusable Terraform code
 
-IAM
+### Skills Demonstrated
 
-GitHub
+* Infrastructure as Code
+* AWS Cloud Architecture
+* Terraform Resource Management
+* Cloud Security Fundamentals
+* Git Version Control
 
-Key Features
+---
 
-Infrastructure fully deployed using Terraform
+## Upcoming Projects
 
-Amazon S3 used for secure website content storage
+### Custom VPC Architecture
 
-CloudFront configured for global content delivery
+* Public and Private Subnets
+* Route Tables
+* Internet Gateway
+* NAT Gateway
+* Security Groups
 
-Repeatable and version-controlled deployment process
+### Highly Available Web Application
 
-Infrastructure managed through reusable Terraform code
+* Application Load Balancer
+* Auto Scaling Group
+* EC2
+* Multi-AZ Deployment
 
-Skills Demonstrated
+### Secure Three-Tier Architecture
 
-Infrastructure as Code
+* Public Web Tier
+* Private Application Tier
+* Private Database Tier
 
-AWS Cloud Architecture
+### Monitoring & Logging Platform
 
-Terraform Resource Management
+* CloudWatch
+* SNS Alerts
+* Infrastructure Monitoring
 
-Cloud Security Fundamentals
+### Kubernetes on AWS
 
-Git Version Control
+* EKS
+* Containerized Applications
+* Production-style Deployments
 
-⸻
+---
 
-Upcoming Projects
+# Professional Experience
 
-Custom VPC Architecture
-
-Public and Private Subnets
-
-Route Tables
-
-Internet Gateway
-
-NAT Gateway
-
-Security Groups
-
-Highly Available Web Application
-
-Application Load Balancer
-
-Auto Scaling Group
-
-EC2
-
-Multi-AZ Deployment
-
-Secure Three-Tier Architecture
-
-Public Web Tier
-
-Private Application Tier
-
-Private Database Tier
-
-Monitoring & Logging Platform
-
-CloudWatch
-
-SNS Alerts
-
-Infrastructure Monitoring
-
-Kubernetes on AWS
-
-EKS
-
-Containerized Applications
-
-Production-style Deployments
-
-⸻
-
-Professional Experience
-
-Nokia – R&D Lab Technician
+## Nokia – R&D Lab Technician
 
 Supporting enterprise networking and telecommunications environments including:
 
-Infrastructure troubleshooting
+* Infrastructure troubleshooting
+* Network connectivity validation
+* Linux and Windows systems support
+* Lab automation support
+* Hardware and software validation
+* Technical documentation
 
-Network connectivity validation
+---
 
-Linux and Windows systems support
-
-Lab automation support
-
-Hardware and software validation
-
-Technical documentation
-
-⸻
-
-Current Learning Roadmap
+# Current Learning Roadmap
 
 2026 Goals:
 
-Terraform Associate Certification
+* Terraform Associate Certification
+* RHCSA
+* Certified Kubernetes Administrator (CKA)
+* Advanced AWS Security
+* Production-grade Terraform Projects
+* Kubernetes Home Lab
 
-RHCSA
+---
 
-Certified Kubernetes Administrator (CKA)
-
-Advanced AWS Security
-
-Production-grade Terraform Projects
-
-Kubernetes Home Lab
-
-⸻
-
-Connect With Me
+# Connect With Me
 
 LinkedIn: www.linkedin.com/in/smit-joshi-63310a281
 
 GitHub: github.com/joshismitwork
+
+Email: joshismit04@gmail.com
+
+---
+
+"Continuous learning, automation, and problem-solving drive my passion for cloud and infrastructure engineering."
+
 
 Email: joshismit04@gmail.com
 
